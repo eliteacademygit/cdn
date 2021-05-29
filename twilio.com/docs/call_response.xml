@@ -4,7 +4,7 @@
    <Say>Hello from Twilio!</Say>
    <Dial>+919911168006</Dial>
    <Dial>1</Dial>
-   <Start>
+   <Connect>
      <Stream url="wss://38dd32a68327.ngrok.io/media" />
-   </Start>
+   </Connect>
 </Response>
